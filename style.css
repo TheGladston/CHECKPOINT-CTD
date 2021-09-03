@@ -19,7 +19,7 @@
 
 body {
     background-image: url(./images/bz-1.jpg);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-color: rgb(29, 29, 29);
     background-size: cover;
     height: 100vh;
